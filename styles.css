@@ -44,6 +44,7 @@ td.eg { border-width: thin; text-align: center; }
   margin: 2em 0 1.5em 0;
   padding: 1em 1em;
 }
+/* Warishaiqbal63 add my comment this is a fork process  */
 #table-fa .example::before { display: block; }
 
 .apple-table-examples { border: none; border-collapse: separate; border-spacing: 1.5em 0em; width: 40em; margin-left: 3em; }
